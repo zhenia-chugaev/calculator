@@ -4,13 +4,15 @@
 OOP implementation of all the basic calculator functionality.
 
 ## How to run the app
+![Application](https://user-images.githubusercontent.com/92256744/228333860-7dad8e24-a5bb-489b-9eeb-1cb7dfa0cdd5.png)
+
 Clone the repo. Then run the following commands:
 ```shell
 $ cd <project folder>
 $ npm install
 $ npm run start
 ```
-This opens the application in your favorite browser. To get the optimized build run:
+That will open the application in your favorite browser. To get the optimized build run:
 ```shell
 $ npm run build
 ```
